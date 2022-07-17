@@ -4,7 +4,7 @@
   "description": "for use demo webapp with express engine",
   "main": "app.js",
   "scripts": {
-    "serve":"node app.js",
+    "serve": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,6 +17,7 @@
     "express": "^4.18.1",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.34",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "socket.io": "^4.5.1"
   }
 }
